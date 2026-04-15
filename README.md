@@ -176,25 +176,6 @@ My work spans research and engineering across intelligent perception, large-scal
 </table>
 
 ---
-
-## Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/JosianeUwumukiza/PASunet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosianeUwumukiza&repo=PASunet&hide_border=true&bg_color=0b1c14&title_color=d97840&text_color=f5f5f4&icon_color=a855f7" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/JosianeUwumukiza/Quant_RL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=JosianeUwumukiza&repo=Quant_RL&hide_border=true&bg_color=0b1c14&title_color=d97840&text_color=f5f5f4&icon_color=a855f7" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 ## Connect
 
 <p align="center">
@@ -208,4 +189,6 @@ My work spans research and engineering across intelligent perception, large-scal
     <img src="https://img.shields.io/badge/Portfolio-1b3326?style=for-the-badge&labelColor=0b1c14&logo=readthedocs&logoColor=d97840&color=1b3326" />
   </a>
 </p>
+
+## Featured projects
 
