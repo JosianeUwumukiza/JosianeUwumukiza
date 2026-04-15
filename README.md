@@ -144,17 +144,9 @@ My work spans research and engineering across intelligent perception, large-scal
 
 ---
 
-## Contribution snake
+## Contribution palette
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JosianeUwumukiza/JosianeUwumukiza/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JosianeUwumukiza/JosianeUwumukiza/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/JosianeUwumukiza/JosianeUwumukiza/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
----
+![Josiane's 3D Palette](https://github-readme-stats.vercel.app/api?username=JosianeUwumukiza&show_icons=true&theme=dark&bg_color=0b1c14&title_color=d97840&text_color=f5f5f4)
 
 ## Highlights
 
