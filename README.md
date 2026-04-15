@@ -166,6 +166,3 @@ My work spans research and engineering across intelligent perception, large-scal
     <img src="https://img.shields.io/badge/Portfolio-1b3326?style=for-the-badge&labelColor=0b1c14&logo=readthedocs&logoColor=d97840&color=1b3326" />
   </a>
 </p>
-
-## Featured projects
-
