@@ -179,8 +179,6 @@ My work spans research and engineering across intelligent perception, large-scal
 
 ## Featured projects
 
-> Pin your best repositories on GitHub so they appear here visually on your profile, then keep this section short and intentional.
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -196,10 +194,7 @@ My work spans research and engineering across intelligent perception, large-scal
   </tr>
 </table>
 
-> Replace these repo names with the exact repos you want to highlight most.
-
 ---
-
 ## Connect
 
 <p align="center">
@@ -214,10 +209,3 @@ My work spans research and engineering across intelligent perception, large-scal
   </a>
 </p>
 
----
-
-<div align="center">
-  <sub>
-    designed in a custom forest-night palette · dynamic stats · auto-generated contribution snake
-  </sub>
-</div>
