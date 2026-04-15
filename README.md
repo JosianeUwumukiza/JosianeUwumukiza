@@ -137,8 +137,7 @@ My work spans research and engineering across intelligent perception, large-scal
 
 ## Contribution activity
 
-https://github-readme-activity-graph.vercel.app/graph?username=JosianeUwumukiza&theme=github&hide_border=true
-
+![GitHub Contribution Graph]([https://github-readme-activity-graph.vercel.app/graph?username=JosianeUwumukiza&bg_color=0b1c14&color=f5f5f4&line=d97840&point=a855f7&area=true&hide_border=true&title_color=d97840](https://github-readme-activity-graph.vercel.app/graph?username=JosianeUwumukiza&theme=github&hide_border=true))
 ## Highlights
 
 <table>
