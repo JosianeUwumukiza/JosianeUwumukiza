@@ -87,17 +87,14 @@
 
 ## About
 
-I’m a computer scientist interested in building **robust AI systems** at the intersection of **computer vision, machine learning, scientific computing, and software engineering**.
-
-My work spans research and engineering across intelligent perception, large-scale data workflows, and practical systems that turn technical ideas into usable tools.
+Computer Science student at Wellesley College, cross-registered at MIT. I have extensive experience working with Machine learning models from probablistic models to complex deep learning achitectures. I also have worked on personal projects accross full stack and mobile dev. I enjoy all forms of learning and thrive in environments that pushes me to learn every day. Fun facts: I started learning the piano 1 year ago and like to write poems and prose.
 
 ---
 
-## Current focus
+## Recent experiences
+-Computer Vision and AI at MITARCLab and MediaLab
+-Software Engineer intern at Microsoft, summer 2025
 
-- Computer vision and AI for challenging real-world environments
-- Scientific and research-oriented machine learning systems
-- Building tools that combine strong modeling with clear product thinking
 
 ---
 
@@ -109,7 +106,6 @@ My work spans research and engineering across intelligent perception, large-scal
   <img src="https://img.shields.io/badge/OpenCV-1b3326?style=flat-square&labelColor=0b1c14&logo=opencv&logoColor=a855f7&color=1b3326" />
   <img src="https://img.shields.io/badge/NumPy-1b3326?style=flat-square&labelColor=0b1c14&logo=numpy&logoColor=a855f7&color=1b3326" />
   <img src="https://img.shields.io/badge/Jupyter-1b3326?style=flat-square&labelColor=0b1c14&logo=jupyter&logoColor=d97840&color=1b3326" />
-  <img src="https://img.shields.io/badge/TypeScript-1b3326?style=flat-square&labelColor=0b1c14&logo=typescript&logoColor=d97840&color=1b3326" />
   <img src="https://img.shields.io/badge/React-1b3326?style=flat-square&labelColor=0b1c14&logo=react&logoColor=a855f7&color=1b3326" />
   <img src="https://img.shields.io/badge/Node.js-1b3326?style=flat-square&labelColor=0b1c14&logo=nodedotjs&logoColor=d97840&color=1b3326" />
   <img src="https://img.shields.io/badge/Docker-1b3326?style=flat-square&labelColor=0b1c14&logo=docker&logoColor=a855f7&color=1b3326" />
