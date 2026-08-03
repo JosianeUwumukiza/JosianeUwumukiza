@@ -47,14 +47,6 @@ I’m happiest in environments where I can keep learning, ask ambitious question
 
 </div>
 
-## GitHub at a glance
-
-<div align="center">
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosianeUwumukiza&bg_color=0B1C14&color=F5F5F4&line=D97840&point=A855F7&area=true&area_color=D97840&hide_border=true&radius=12" alt="Josiane's GitHub contribution graph" />
-
-</div>
-
 ## What I care about
 
 <table>
