@@ -51,12 +51,12 @@ I’m happiest in environments where I can keep learning, ask ambitious question
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JosianeUwumukiza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1C14&title_color=D97840&text_color=F5F5F4&icon_color=A855F7&ring_color=D97840" alt="Josiane's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeUwumukiza&layout=compact&hide_border=true&bg_color=0B1C14&title_color=D97840&text_color=F5F5F4&icon_color=A855F7" alt="Josiane's most-used languages" />
+<img height="170" src="./workflows/stats.svg" alt="Josiane's GitHub statistics" />
+<img height="170" src="./workflows/top-langs.svg" alt="Josiane's most-used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=JosianeUwumukiza&hide_border=true&background=0B1C14&ring=D97840&fire=A855F7&currStreakLabel=F5F5F4&sideNums=F5F5F4&currStreakNum=F5F5F4&dates=9FB3A7&sideLabels=D97840" alt="Josiane's GitHub contribution streak" />
+<img src="./workflows/streak.svg" alt="Josiane's GitHub contribution streak" />
 
 <br />
 
