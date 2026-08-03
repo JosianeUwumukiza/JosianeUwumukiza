@@ -1,164 +1,88 @@
-<!-- =========================================
-     Josiane Uwumukiza — Dynamic GitHub Profile
-     Theme: Forest Night / Terracotta / Violet
-========================================= -->
-
 <div align="center">
 
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Josiane Uwumukiza GitHub profile header">
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#08140f"/>
-      <stop offset="55%" stop-color="#0b1c14"/>
-      <stop offset="100%" stop-color="#13261c"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" x2="1">
-      <stop offset="0%" stop-color="#d97840"/>
-      <stop offset="100%" stop-color="#a855f7"/>
-    </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
+<img src="./workflows/profile-header.svg" width="100%" alt="Josiane Uwumukiza — AI, computer vision, research, and engineering" />
 
-  <rect width="1200" height="220" rx="22" fill="url(#bg)"/>
+<br />
 
-  <!-- stars -->
-  <circle cx="910" cy="35" r="2.3" fill="#d97840" opacity="0.55"/>
-  <circle cx="950" cy="55" r="1.9" fill="#a855f7" opacity="0.45"/>
-  <circle cx="990" cy="28" r="2.6" fill="#d97840" opacity="0.5"/>
-  <circle cx="1035" cy="62" r="2.1" fill="#a855f7" opacity="0.4"/>
-  <circle cx="1080" cy="40" r="2.5" fill="#d97840" opacity="0.5"/>
-  <circle cx="1120" cy="70" r="2.1" fill="#d97840" opacity="0.35"/>
-  <circle cx="930" cy="110" r="2" fill="#a855f7" opacity="0.45"/>
-  <circle cx="980" cy="135" r="2.4" fill="#d97840" opacity="0.4"/>
-  <circle cx="1040" cy="120" r="1.8" fill="#a855f7" opacity="0.55"/>
-  <circle cx="1105" cy="145" r="2.4" fill="#d97840" opacity="0.4"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1100&color=D97840&center=true&vCenter=true&width=760&lines=Exploring+intelligent+perception;Turning+research+ideas+into+useful+systems;Always+learning%2C+building%2C+and+creating" alt="Animated introduction" />
+</a>
 
-  <!-- orbit lines -->
-  <path d="M760 190 C860 145, 980 145, 1140 168" stroke="#d97840" stroke-width="1.2" opacity="0.25" fill="none"/>
-  <path d="M790 165 C900 115, 1010 118, 1145 132" stroke="#a855f7" stroke-width="1" opacity="0.18" fill="none"/>
-
-  <text x="52" y="82" font-family="Georgia, serif" font-size="42" font-weight="700" fill="#f5f5f4">
-    Josiane Uwumukiza
-  </text>
-
-  <text x="52" y="125" font-family="Georgia, serif" font-size="30" font-weight="700" fill="#d97840">
-    building intelligent systems that see, reason, and matter.
-  </text>
-
-  <text x="52" y="158" font-family="Georgia, serif" font-size="16" fill="#9fb3a7">
-    Computer Science @ Wellesley · Research across AI, computer vision, and scientific systems
-  </text>
-
-  <rect x="52" y="177" width="115" height="28" rx="7" fill="#102018" stroke="#d97840"/>
-  <text x="109.5" y="195.5" text-anchor="middle" font-family="monospace" font-size="12" fill="#f5f5f4">
-    AI / Vision
-  </text>
-
-  <rect x="177" y="177" width="118" height="28" rx="7" fill="#102018" stroke="#a855f7"/>
-  <text x="236" y="195.5" text-anchor="middle" font-family="monospace" font-size="12" fill="#f5f5f4">
-    Research + SWE
-  </text>
-
-  <rect x="306" y="177" width="136" height="28" rx="7" fill="#102018" stroke="#d97840"/>
-  <text x="374" y="195.5" text-anchor="middle" font-family="monospace" font-size="12" fill="#f5f5f4">
-    Open to impact
-  </text>
-
-  <!-- decorative node -->
-  <circle cx="760" cy="88" r="30" fill="none" stroke="url(#accent)" stroke-width="2.2" opacity="0.8" filter="url(#glow)"/>
-  <circle cx="760" cy="88" r="10" fill="#d97840" opacity="0.75"/>
-</svg>
-
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile-Dynamic-1b3326?style=for-the-badge&labelColor=0b1c14&logo=github&logoColor=d97840&color=1b3326" />
-  <img src="https://img.shields.io/badge/Theme-Forest%20Night-1b3326?style=for-the-badge&labelColor=0b1c14&color=1b3326&logoColor=a855f7" />
-  <img src="https://img.shields.io/badge/Status-Building-1b3326?style=for-the-badge&labelColor=0b1c14&color=1b3326" />
+<p>
+  <a href="https://linkedin.com/in/josiane-uwumukiza"><img src="https://img.shields.io/badge/LinkedIn-0B1C14?style=for-the-badge&logo=linkedin&logoColor=A855F7" alt="LinkedIn" /></a>
+  <a href="https://github.com/JosianeUwumukiza"><img src="https://img.shields.io/badge/GitHub-0B1C14?style=for-the-badge&logo=github&logoColor=D97840" alt="GitHub" /></a>
+  <a href="https://josianeuwumukiza.github.io/Academic-portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B1C14?style=for-the-badge&logo=safari&logoColor=D97840" alt="Portfolio" /></a>
 </p>
 
----
+</div>
 
-## About
+## About me
 
-Computer Science student at Wellesley College, cross-registered at MIT. I have extensive experience working with Machine learning models from probablistic models to complex deep learning achitectures. I also have worked on personal projects accross full stack and mobile dev. I enjoy all forms of learning and thrive in environments that pushes me to learn every day. Fun facts: I started learning the piano 1 year ago and like to write poems and prose.
+I'm a Computer Science student at **Wellesley College**, cross-registered at **MIT**, with interests spanning machine learning, computer vision, and scientific systems. My experience ranges from probabilistic models to deep learning architectures, alongside full-stack and mobile development.
 
----
+I’m happiest in environments where I can keep learning, ask ambitious questions, and turn ideas into useful, thoughtfully engineered systems. Away from the screen, I’m learning piano and writing poetry and prose.
 
-## Recent experiences
--Computer Vision and AI at MITARCLab and MediaLab
--Software Engineer intern at Microsoft, summer 2025
+## Currently
 
+```text
+🔭  Computer vision and AI research       MIT ARC Lab + MIT Media Lab
+💻  Software Engineering Intern           Microsoft · Summer 2025
+🧠  Exploring                             Intelligent perception + scientific systems
+🎹  Beyond code                           Piano · poetry · prose
+```
 
----
-
-## Tech I use
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1b3326?style=flat-square&labelColor=0b1c14&logo=python&logoColor=d97840&color=1b3326" />
-  <img src="https://img.shields.io/badge/PyTorch-1b3326?style=flat-square&labelColor=0b1c14&logo=pytorch&logoColor=d97840&color=1b3326" />
-  <img src="https://img.shields.io/badge/OpenCV-1b3326?style=flat-square&labelColor=0b1c14&logo=opencv&logoColor=a855f7&color=1b3326" />
-  <img src="https://img.shields.io/badge/NumPy-1b3326?style=flat-square&labelColor=0b1c14&logo=numpy&logoColor=a855f7&color=1b3326" />
-  <img src="https://img.shields.io/badge/Jupyter-1b3326?style=flat-square&labelColor=0b1c14&logo=jupyter&logoColor=d97840&color=1b3326" />
-  <img src="https://img.shields.io/badge/React-1b3326?style=flat-square&labelColor=0b1c14&logo=react&logoColor=a855f7&color=1b3326" />
-  <img src="https://img.shields.io/badge/Node.js-1b3326?style=flat-square&labelColor=0b1c14&logo=nodedotjs&logoColor=d97840&color=1b3326" />
-  <img src="https://img.shields.io/badge/Docker-1b3326?style=flat-square&labelColor=0b1c14&logo=docker&logoColor=a855f7&color=1b3326" />
-  <img src="https://img.shields.io/badge/Git-1b3326?style=flat-square&labelColor=0b1c14&logo=git&logoColor=d97840&color=1b3326" />
-</p>
-
----
-
-## Live GitHub snapshot
+## Toolbox
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JosianeUwumukiza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0b1c14&title_color=d97840&text_color=f5f5f4&icon_color=a855f7&ring_color=d97840" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeUwumukiza&layout=compact&hide_border=true&bg_color=0b1c14&title_color=d97840&text_color=f5f5f4&icon_color=a855f7" />
+![Python](https://img.shields.io/badge/Python-102219?style=for-the-badge&logo=python&logoColor=D97840)
+![PyTorch](https://img.shields.io/badge/PyTorch-102219?style=for-the-badge&logo=pytorch&logoColor=D97840)
+![OpenCV](https://img.shields.io/badge/OpenCV-102219?style=for-the-badge&logo=opencv&logoColor=A855F7)
+![NumPy](https://img.shields.io/badge/NumPy-102219?style=for-the-badge&logo=numpy&logoColor=A855F7)
+![Jupyter](https://img.shields.io/badge/Jupyter-102219?style=for-the-badge&logo=jupyter&logoColor=D97840)
+![React](https://img.shields.io/badge/React-102219?style=for-the-badge&logo=react&logoColor=A855F7)
+![Node.js](https://img.shields.io/badge/Node.js-102219?style=for-the-badge&logo=nodedotjs&logoColor=D97840)
+![Docker](https://img.shields.io/badge/Docker-102219?style=for-the-badge&logo=docker&logoColor=A855F7)
+![Git](https://img.shields.io/badge/Git-102219?style=for-the-badge&logo=git&logoColor=D97840)
 
 </div>
+
+## GitHub at a glance
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=JosianeUwumukiza&hide_border=true&background=0b1c14&ring=d97840&fire=a855f7&currStreakLabel=f5f5f4&sideNums=f5f5f4&currStreakNum=f5f5f4&dates=9fb3a7&sideLabels=d97840" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JosianeUwumukiza&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0B1C14&title_color=D97840&text_color=F5F5F4&icon_color=A855F7&ring_color=D97840" alt="Josiane's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosianeUwumukiza&layout=compact&hide_border=true&bg_color=0B1C14&title_color=D97840&text_color=F5F5F4&icon_color=A855F7" alt="Josiane's most-used languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=JosianeUwumukiza&hide_border=true&background=0B1C14&ring=D97840&fire=A855F7&currStreakLabel=F5F5F4&sideNums=F5F5F4&currStreakNum=F5F5F4&dates=9FB3A7&sideLabels=D97840" alt="Josiane's GitHub contribution streak" />
+
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=JosianeUwumukiza&bg_color=0B1C14&color=F5F5F4&line=D97840&point=A855F7&area=true&area_color=D97840&hide_border=true&radius=12" alt="Josiane's GitHub contribution graph" />
 
 </div>
-## Highlights
+
+## What I care about
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Research</h3>
-      <p>
-        Work spanning AI, computer vision, and scientific systems, with a focus on intelligent perception and high-impact technical problems.
-      </p>
+      <h3>🔬 Research</h3>
+      <p>I work across AI, computer vision, and scientific systems, with a focus on intelligent perception and high-impact technical problems.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Engineering</h3>
-      <p>
-        I enjoy building things end-to-end: models, systems, pipelines, and products that are both technically solid and actually useful.
-      </p>
+      <h3>🛠️ Engineering</h3>
+      <p>I enjoy building end-to-end: models, systems, pipelines, and products that are technically rigorous and genuinely useful.</p>
     </td>
   </tr>
 </table>
 
----
-## Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/josiane-uwumukiza">
-    <img src="https://img.shields.io/badge/LinkedIn-1b3326?style=for-the-badge&labelColor=0b1c14&logo=linkedin&logoColor=a855f7&color=1b3326" />
-  </a>
-  <a href="https://github.com/JosianeUwumukiza">
-    <img src="https://img.shields.io/badge/GitHub-1b3326?style=for-the-badge&labelColor=0b1c14&logo=github&logoColor=d97840&color=1b3326" />
-  </a>
-  <a href="https://josianeuwumukiza.github.io/Academic-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-1b3326?style=for-the-badge&labelColor=0b1c14&logo=readthedocs&logoColor=d97840&color=1b3326" />
-  </a>
-</p>
+### Let’s build something meaningful.
+
+<sub>Research · engineering · curiosity</sub>
+
+</div>
