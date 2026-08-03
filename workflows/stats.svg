@@ -1,0 +1,20 @@
+<svg width="495" height="195" viewBox="0 0 495 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub statistics are updating</title>
+  <desc id="desc">This placeholder is replaced automatically by the profile card workflow.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#D97840"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="495" height="195" rx="14" fill="#0B1C14"/>
+  <text x="28" y="42" fill="#D97840" font-family="Arial, sans-serif" font-size="18" font-weight="700">GitHub statistics</text>
+  <g fill="#183425">
+    <rect x="28" y="70" width="150" height="12" rx="6"/>
+    <rect x="28" y="96" width="210" height="12" rx="6"/>
+    <rect x="28" y="122" width="178" height="12" rx="6"/>
+  </g>
+  <circle cx="403" cy="98" r="43" fill="none" stroke="#183425" stroke-width="10"/>
+  <path d="M403 55a43 43 0 0 1 40 58" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linecap="round"/>
+  <text x="28" y="166" fill="#9FB3A7" font-family="Arial, sans-serif" font-size="13">Updating automatically…</text>
+</svg>
