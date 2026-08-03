@@ -1,0 +1,120 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Josiane Uwumukiza</title>
+  <desc id="description">Animated forest-night profile banner with terracotta and violet light trails.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="40" y1="18" x2="1160" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#06110D"/>
+      <stop offset="0.52" stop-color="#0B1C14"/>
+      <stop offset="1" stop-color="#14291D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="140" y1="70" x2="1040" y2="264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F08A50"/>
+      <stop offset="0.55" stop-color="#D97840"/>
+      <stop offset="1" stop-color="#A855F7"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientTransform="translate(988 148) rotate(90) scale(148)">
+      <stop stop-color="#A855F7" stop-opacity="0.24"/>
+      <stop offset="0.52" stop-color="#D97840" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#08140F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="largeBlur" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <clipPath id="cardClip">
+      <rect width="1200" height="320" rx="30"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .trail { stroke-dasharray: 12 18; animation: travel 8s linear infinite; }
+    .trail.slow { animation-duration: 12s; animation-direction: reverse; }
+    .trail.fast { animation-duration: 6s; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 3.2s ease-in-out infinite; }
+    .orbit { transform-box: fill-box; transform-origin: center; animation: rotate 18s linear infinite; }
+    .orbit.reverse { animation-direction: reverse; animation-duration: 26s; }
+    .star { animation: twinkle 2.8s ease-in-out infinite; }
+    .star.two { animation-delay: .8s; }
+    .star.three { animation-delay: 1.6s; }
+    .rise { animation: rise .9s ease-out both; }
+    .delay-one { animation-delay: .18s; }
+    .delay-two { animation-delay: .36s; }
+    .delay-three { animation-delay: .54s; }
+
+    @keyframes travel { to { stroke-dashoffset: -240; } }
+    @keyframes pulse { 0%, 100% { opacity: .5; transform: scale(.92); } 50% { opacity: 1; transform: scale(1.08); } }
+    @keyframes rotate { to { transform: rotate(360deg); } }
+    @keyframes twinkle { 0%, 100% { opacity: .2; } 50% { opacity: 1; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+    <rect width="1200" height="320" fill="url(#background)"/>
+    <circle cx="1000" cy="150" r="174" fill="url(#orb)"/>
+    <circle cx="1050" cy="-10" r="120" fill="#A855F7" fill-opacity="0.05" filter="url(#largeBlur)"/>
+    <circle cx="845" cy="330" r="145" fill="#D97840" fill-opacity="0.06" filter="url(#largeBlur)"/>
+
+    <g opacity="0.12">
+      <path d="M0 56H1200M0 112H1200M0 168H1200M0 224H1200M0 280H1200" stroke="#9FB3A7"/>
+      <path d="M80 0V320M160 0V320M240 0V320M320 0V320M400 0V320M480 0V320M560 0V320M640 0V320M720 0V320M800 0V320M880 0V320M960 0V320M1040 0V320M1120 0V320" stroke="#9FB3A7"/>
+    </g>
+
+    <path class="trail slow" d="M624 282C736 213 810 238 894 185C978 132 1050 69 1220 103" stroke="#A855F7" stroke-width="2" stroke-linecap="round" opacity="0.52"/>
+    <path class="trail" d="M592 305C726 230 810 263 918 199C1021 137 1097 106 1228 130" stroke="#D97840" stroke-width="2.5" stroke-linecap="round" opacity="0.72"/>
+    <path class="trail fast" d="M706 319C802 274 894 269 978 219C1073 162 1112 169 1230 181" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" opacity="0.48"/>
+
+    <g transform="translate(995 148)">
+      <circle class="pulse" r="74" stroke="url(#accent)" stroke-width="2" opacity="0.7" filter="url(#softGlow)"/>
+      <g class="orbit">
+        <ellipse rx="115" ry="46" transform="rotate(-18)" stroke="#D97840" stroke-width="1.5" stroke-dasharray="8 12" opacity="0.58"/>
+        <circle cx="109" cy="-24" r="5" fill="#F08A50" filter="url(#softGlow)"/>
+      </g>
+      <g class="orbit reverse">
+        <ellipse rx="92" ry="116" transform="rotate(57)" stroke="#A855F7" stroke-width="1.2" stroke-dasharray="4 14" opacity="0.42"/>
+        <circle cx="-77" cy="69" r="4" fill="#A855F7" filter="url(#softGlow)"/>
+      </g>
+      <circle r="28" fill="#0B1C14" stroke="url(#accent)" stroke-width="2.5"/>
+      <circle r="10" fill="#D97840" filter="url(#softGlow)"/>
+      <circle r="4" fill="#FFF7ED"/>
+    </g>
+
+    <g fill="#F5F5F4">
+      <circle class="star" cx="742" cy="52" r="2"/>
+      <circle class="star two" cx="802" cy="90" r="2.5"/>
+      <circle class="star three" cx="870" cy="36" r="1.8"/>
+      <circle class="star two" cx="1120" cy="66" r="2"/>
+      <circle class="star" cx="1158" cy="237" r="2.3"/>
+      <circle class="star three" cx="858" cy="255" r="1.8"/>
+    </g>
+
+    <g class="rise">
+      <text x="68" y="88" fill="#9FB3A7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="3">HELLO, I’M</text>
+      <text x="64" y="145" fill="#F5F5F4" font-family="Georgia, 'Times New Roman', serif" font-size="54" font-weight="700">Josiane Uwumukiza</text>
+    </g>
+
+    <text class="rise delay-one" x="68" y="188" fill="url(#accent)" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700">I build intelligent systems that see, reason, and matter.</text>
+    <text class="rise delay-two" x="68" y="224" fill="#B8C7BE" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="16">Computer Science @ Wellesley  ·  AI + Computer Vision  ·  Research + Engineering</text>
+
+    <g class="rise delay-three" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600">
+      <rect x="68" y="252" width="116" height="34" rx="17" fill="#102219" stroke="#D97840" stroke-opacity="0.8"/>
+      <text x="126" y="274" fill="#F5F5F4" text-anchor="middle">AI / VISION</text>
+      <rect x="195" y="252" width="142" height="34" rx="17" fill="#102219" stroke="#A855F7" stroke-opacity="0.8"/>
+      <text x="266" y="274" fill="#F5F5F4" text-anchor="middle">RESEARCH + SWE</text>
+      <rect x="348" y="252" width="142" height="34" rx="17" fill="#102219" stroke="#D97840" stroke-opacity="0.8"/>
+      <text x="419" y="274" fill="#F5F5F4" text-anchor="middle">OPEN TO IMPACT</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="318" rx="29" stroke="url(#accent)" stroke-opacity="0.28" stroke-width="2"/>
+</svg>
